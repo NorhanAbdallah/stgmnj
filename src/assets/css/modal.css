@@ -1,0 +1,40 @@
+.modal-input .ant-input-affix-wrapper:hover {
+    border-color: #A3C744;
+    border-right-width: 1px !important;
+}
+.modal-input .ant-input-affix-wrapper {
+    color: rgba(0, 0, 0, 0.65);
+    background-color: #444;
+    border: 1px solid #a3c744;
+}
+.modal-input .ant-input {
+
+    color: #a3c744;
+    background-color: #444;
+    border: 1px solid #d9d9d9;
+}
+.ant-modal-header .ant-modal-title {
+    color: #A3C744;
+}
+.ant-modal .ant-modal-content {
+    background-color: #444;
+}
+.ant-modal .ant-modal-header {
+    color: rgba(0, 0, 0, 0.65);
+    background: #444;
+    border-bottom: 1px solid #a3c744;
+}
+.ant-modal .ant-modal-footer {
+    border-top: 1px solid #a3c744;
+}
+.ant-modal .ant-btn:hover, .ant-btn:focus {
+    color: #a3c744;
+    background-color: #444;
+    border-color: #a3c744;
+}
+.ant-modal .ant-btn {
+  
+    color: #a3c744;
+    background-color: #444444;
+    border-color: #a3c744;
+}

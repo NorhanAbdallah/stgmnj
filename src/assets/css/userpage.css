@@ -1,0 +1,9 @@
+.userTitle {
+   color:green;
+   font-size: 2em;
+   font-weight: bolder;
+   padding: 1em;
+}
+.userName, .userEmail, .userAddress {
+    color: green;
+}
